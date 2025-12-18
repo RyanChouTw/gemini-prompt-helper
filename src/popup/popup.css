@@ -1,0 +1,15 @@
+/* src/popup/popup.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+#root {
+  width: 400px;
+  height: 600px;
+}
